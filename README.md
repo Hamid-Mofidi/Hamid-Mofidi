@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hamid-Mofidi. I have been a graduate of the University of Kansas and received my Ph.D. of Applied Mathematics in Summer 2020. 
-- 👀 I am passionate about utilizing deep learning and neural networks to study the dynamics of mathematical biological models. With my experience in numerical and computational tools, I am enthusiastic about the potential to make significant contributions to this exciting field!
+- 👋 Hi, I’m @Hamid-Mofidi. I have received Ph.D. of Applied Mathematics from  the University of Kansas in Summer 2020. 
+- 👀 I am passionate about utilizing deep learning and neural networks to study the dynamics of mathematical biological models. 
 - 🌱 I’m currently expanding my knowledge in deep learning and neural networks, with the goal of leveraging these cutting-edge techniques to study the dynamics of mathematical biological models. 
 - 💞️ I am enthusiastic about exploring new research directions and collaborating with other experts in the field to push the boundaries of what is possible!
 - 📫 Feel free to reach out to me at hamidreza.mofidi@gmail.com if you want to get in touch. I'd be happy to hear from you!
